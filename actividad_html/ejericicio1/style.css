@@ -1,0 +1,27 @@
+* {
+    /*propiedad que me permite ajustar al tamaño de la caja sin sumar padding y border*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color:#262626;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+body{
+    margin: 2% 15%;
+}
+p{
+    margin-top: 12px;
+    text-align: justify;
+}
+a{
+    color: blue;
+}
+footer{
+    margin-top: 15%;
+}
+h2{
+    margin-top: 10px;
+}
+
